@@ -16,3 +16,5 @@ __pycache__/
 
 # Dataset folder
 data/
+#outputs
+outputs/
