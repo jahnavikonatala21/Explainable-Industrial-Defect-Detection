@@ -1,0 +1,6 @@
+no_defect
+defect
+contamination
+scratch
+bend
+cut

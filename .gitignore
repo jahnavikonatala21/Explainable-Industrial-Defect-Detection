@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Model weights
+*.h5
+*.pt
+
+# Dataset folder
+data/
