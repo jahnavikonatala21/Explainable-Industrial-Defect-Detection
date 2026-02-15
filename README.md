@@ -151,6 +151,14 @@ View the app at: `http://127.0.0.1:5000`[YOUR LOCAL HOST]
 ## 🖼 Output Gallery
 <img width="840" height="259" alt="image" src="https://github.com/user-attachments/assets/4bd896a8-1f6c-45e6-8603-c6b9f8e3d8d0" />
 
+## 💡 Why Explainability Matters in Industry
+
+In industrial environments, model decisions directly impact 
+cost, safety, and production downtime. Black-box predictions 
+are often rejected by quality engineers.
+
+By integrating Grad-CAM, this system provides visual evidence 
+for each prediction, increasing trust and adoption in real-world deployment.
 
 
 ## 🔬 Future Roadmap
