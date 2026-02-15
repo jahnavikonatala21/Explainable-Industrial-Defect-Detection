@@ -1,11 +1,13 @@
+# Python cache
+__pycache__/
+*.py[codz]
+*$py.class
+
 # Virtual environments
 venv/
 env/
 .venv/
-
-# Python cache
-__pycache__/
-*.pyc
+ENV/
 
 # VS Code
 .vscode/
@@ -14,7 +16,22 @@ __pycache__/
 *.h5
 *.pt
 
-# Dataset folder
+# Dataset
 data/
-#outputs
+
+# Outputs
 outputs/
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
